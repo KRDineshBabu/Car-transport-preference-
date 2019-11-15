@@ -1,4 +1,4 @@
-setwd("C:\\Users\\asckrdb\\Dropbox\\Great Learning\\Predictive Modeling\\Week 5")
+setwd("-----------")
 car_dataset <- read.csv("Cars-dataset.csv", header = TRUE)
 
 #EDA on the data 
