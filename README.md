@@ -7,11 +7,19 @@ This project requires you to understand what mode of transport employees prefers
 Project Approach:
 
   •	Exploratory Data Analysis  
-    o	Data Profiling Report 
+  
+       o	Data Profiling Report 
+       
   •	Data Preparation 
+  
   •	Modeling 
-    o	KNN 
-  o	Naive 
-  o	Logistic Regression
-  o	Bagging modeling 
-  o	Boosting modeling 
+  
+       o	KNN 
+       
+       o	Naive 
+       
+       o	Logistic Regression
+       
+       o	Bagging modeling 
+       
+       o	Boosting modeling 
